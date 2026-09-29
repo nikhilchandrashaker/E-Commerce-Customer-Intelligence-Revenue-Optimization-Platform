@@ -1,0 +1,41 @@
+CUSTOMER #14646
+Segment: Champions
+Customer tenure: 738 days since first purchase
+Days since last purchase: 2
+Repeat purchases: 90 (spanned 736 days between first and last)
+Monetary value (avg per transaction, capped): £5142.58
+Predicted 12-month CLV: £193694.27
+Purchase propensity (P alive): 99.9%
+Expected purchases in next 90 days: 10.13
+Recommended products:
+  1. JUMBO BAG RED RETROSPOT
+  2. PACK OF 72 RETROSPOT CAKE CASES
+  3. LUNCH BAG SUKI  DESIGN 
+
+CUSTOMER #14911
+Segment: Champions
+Customer tenure: 739 days since first purchase
+Days since last purchase: 2
+Repeat purchases: 248 (spanned 737 days between first and last)
+Monetary value (avg per transaction, capped): £1133.76
+Predicted 12-month CLV: £116887.74
+Purchase propensity (P alive): 99.9%
+Expected purchases in next 90 days: 27.75
+Recommended products:
+  1. JUMBO BAG RED RETROSPOT
+  2. PACK OF 72 RETROSPOT CAKE CASES
+  3. JUMBO BAG PINK POLKADOT
+
+CUSTOMER #14096
+Segment: Champions
+Customer tenure: 102 days since first purchase
+Days since last purchase: 5
+Repeat purchases: 16 (spanned 97 days between first and last)
+Monetary value (avg per transaction, capped): £3327.99
+Predicted 12-month CLV: £107700.17
+Purchase propensity (P alive): 99.2%
+Expected purchases in next 90 days: 8.82
+Recommended products:
+  1. JUMBO BAG RED RETROSPOT
+  2. PACK OF 72 RETROSPOT CAKE CASES
+  3. LUNCH BAG SUKI  DESIGN 
